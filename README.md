@@ -1,1 +1,0 @@
-This is my personal portfolio, to be updated regularly with additional projects and styling as my skills grow.
