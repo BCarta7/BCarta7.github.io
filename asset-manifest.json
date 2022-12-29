@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bcarta7.github.io/static/css/main.04dbf3c5.css",
+    "main.js": "/bcarta7.github.io/static/js/main.bd1e0a65.js",
+    "static/js/787.1ed0c42c.chunk.js": "/bcarta7.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/treasurePic.png": "/bcarta7.github.io/static/media/treasurePic.c55a111fea163df29092.png",
+    "static/media/tictacPic.png": "/bcarta7.github.io/static/media/tictacPic.e6785485f0fcd71ec139.png",
+    "static/media/translatorPic.png": "/bcarta7.github.io/static/media/translatorPic.0b56fc27be3eb40f88cc.png",
+    "index.html": "/bcarta7.github.io/index.html",
+    "main.04dbf3c5.css.map": "/bcarta7.github.io/static/css/main.04dbf3c5.css.map",
+    "main.bd1e0a65.js.map": "/bcarta7.github.io/static/js/main.bd1e0a65.js.map",
+    "787.1ed0c42c.chunk.js.map": "/bcarta7.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04dbf3c5.css",
+    "static/js/main.bd1e0a65.js"
+  ]
+}
