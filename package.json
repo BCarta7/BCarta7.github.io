@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://BCarta7.github.io",
+  "homepage": "https://BCarta7.github.io/bcarta7.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
