@@ -1,0 +1,81 @@
+* {
+  background-color: #0a192f;
+  color: silver;
+}
+
+h3 {
+  text-align: center;
+}
+
+.title {
+  color: silver;
+  text-align: center;
+  margin-top: 10vh;
+  bottom: 20vh;
+}
+
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: silver;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  margin-top: 15vh;
+  margin-bottom: 60vh;
+  gap: 30px;
+}
+
+.mypic {
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: silver;
+  height: 400px;
+}
+
+.fa-brands {
+  cursor: pointer;
+  color: rgb(6, 193, 140);
+}
+
+.hotlinks {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.projects {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 60vh;
+}
+
+.projectpic {
+  height: 200px;
+  width: 300px;
+}
+
+.project {
+  text-align: center;
+  width: 350px;
+}
+
+.project h3 {
+  color: rgb(6, 193, 140);
+}
+
+.contact {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.question {
+  color: rgb(6, 193, 140);
+  border-style: solid;
+  border-color: rgb(6, 193, 140);
+  margin-left: 50vh;
+  margin-right: 50vh;
+}
