@@ -25,9 +25,7 @@ function Example(args) {
               <NavLink href="#projectnav">Projects</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#contact">
-                Contact
-              </NavLink>
+              <NavLink href="#contact">Contact</NavLink>
             </NavItem>
           </Nav>
         </Collapse>
