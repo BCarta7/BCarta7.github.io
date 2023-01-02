@@ -32,24 +32,27 @@ function App() {
       <div className="project">
           <h3>Pig Latin Translator</h3>
           <a href="https://bcarta7.github.io/pig-latin-translator/" rel="noreferrer noopener" target="blank">
-          <img className ="projectpic" src={translatorPic} alt="image of project" />
+          <img className ="projectpic" src={translatorPic} alt="pig latin translator"/>
           </a>
+          <br></br>
           <p>My first pair-programming project in react, practicing javascript logic to develop a pig latin translator app. I consider this project largely complete as a practice experience.</p>
           <a href="https://github.com/BCarta7/pig-latin-translator" rel="noreferrer noopener" target="blank">Github</a>
       </div>
       <div className="project">
           <h3>Tic Tac Toe</h3>
           <a href="https://bcarta7.github.io/tic-tac-toe/" rel="noreferrer noopener" target="blank">
-          <img className ="projectpic" src={tictacPic} alt="image of project" />
+          <img className ="projectpic" src={tictacPic} alt="tic tac toe" />
           </a>
+          <br></br>
           <p>A timeless classic, programmed from the ground up as a pair programming exercise in react. Upcoming goals include upgrade gameplay to "ultimate" tic-tac-toe, and further enhancing styling.</p>
           <a href="https://github.com/BCarta7/tic-tac-toe" rel="noreferrer noopener" target="blank">Github</a>
       </div>
       <div className="project">
           <h3>Treasure Hunt</h3>
           <a href="https://bcarta7.github.io/treasure-hunt/" rel="noreferrer noopener" target="blank">
-          <img className ="projectpic" src={treasurePic} alt="image of project" />
+          <img className ="projectpic" src={treasurePic} alt="spooky treasure hunt" />
           </a>
+          <br></br>
           <p>My first solo react project. A simple and playfully styled RNG based game, developed from the ground up. This project was massively educational in regards to react props and state, and I consider it a completed project as a learning experience.</p>
           <a href="https://github.com/BCarta7/treasure-hunt" rel="noreferrer noopener" target="blank">Github</a>
       </div>
