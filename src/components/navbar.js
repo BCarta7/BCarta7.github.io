@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import {
-  Collapse,
   Navbar,
-  NavbarToggler,
   NavbarBrand,
   Nav,
   NavItem,
@@ -10,17 +8,11 @@ import {
 } from 'reactstrap';
 
 function Example(args) {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const toggle = () => setIsOpen(!isOpen);
-
   return (
     <div>
       <Navbar {...args} dark fixed="top">
-        <NavbarBrand href="#title">Back to top</NavbarBrand>
-        <NavbarToggler onClick={toggle} />
-        <Collapse isOpen={isOpen} navbar>
-          <Nav className="me-auto" navbar>
+        <NavbarBrand href="#titleNav">Back to top</NavbarBrand>
+          <Nav className="flex-row space-x-52 mx-auto" navbar>
             <NavItem>
               <NavLink href="#projectnav">Projects</NavLink>
             </NavItem>
@@ -28,7 +20,6 @@ function Example(args) {
               <NavLink href="#contact">Contact</NavLink>
             </NavItem>
           </Nav>
-        </Collapse>
       </Navbar>
     </div>
   );
