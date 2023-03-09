@@ -57,11 +57,16 @@ h3 {
 .projectpic {
   height: 200px;
   width: 300px;
+  margin-left: 20px;
 }
 
 .project {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align:center;
   width: 350px;
+
 }
 
 .project h3 {
